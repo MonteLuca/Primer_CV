@@ -1,0 +1,110 @@
+ * {
+    background-color: rgb(245, 190, 127);
+ }
+ 
+ .form__h1 {
+     font-size: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-style:italic;
+     line-height: 1;
+     font-weight: 600;
+     color: rgb(255, 255, 255);
+     text-shadow: 1px 1px 2px black;
+ }
+ 
+ .form__img {
+     border-radius: 10px;
+     border: outset rgb(91, 88, 245) 5px;
+ }
+ 
+ .form__p {
+     font-size: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 12px;
+     text-align: center;
+     border: inset rgb(255, 255, 255) 5px;
+     padding: 10px;
+     margin: 10px 100px;
+     background-color: black;  
+     color: rgb(255, 255, 255);
+     border-radius: 5px;
+     font-style: italic;
+ }
+ 
+ .refe__1 {
+     border: solid black 1px;
+     margin: 5px;
+     line-height: 2;
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 2px;
+ }
+ 
+ .refe__2 {
+    border: solid black 1px;
+    margin: 5px;
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+ }
+ 
+ .refe__3 {
+    border: solid black 1px;
+    margin: 5px;
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+ }
+ 
+ #pepe1 {
+    line-height: 0;
+    padding: 2px;
+ }
+
+ #pepe2 {
+    line-height: 0;
+    padding: 2px;
+ }
+
+ #pepe3 {
+    line-height: 0;
+    padding: 2px;
+ }
+
+ #caca {
+    padding: 0px;
+    margin: 0px;
+    line-height: 0;
+ }
+
+ .cono__1 {
+    border: solid black 1px;
+    margin: 5px;
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+ }
+
+ .cono__2 {
+    border: solid black 1px;
+    margin: 5px;
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+ }
+
+ #cono__id1 {
+    line-height: 0;
+    padding: 2px;
+ }
+
+ #cono__id2 {
+    line-height: 0;
+    padding: 2px;
+ }
+
+ #UL {
+     border: solid black 1px;
+     padding: 1;
+     line-height: 2;
+ }
+
